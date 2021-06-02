@@ -1,0 +1,8 @@
+Grigorii,Skovoroda,3.56348756,5
+Taras,Shevchenko,4,5
+Hose,De San-Martin,4.9,9
+Maria,Povashova,2.4,7
+Derby,Pensilvania,5,2
+Inna,Mamaeva,5,7
+Andriy,Malaev,3.33333,8
+Timofei,Rozens,2.5,6
